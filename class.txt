@@ -1,13 +1,13 @@
-carlos
+Crimson
 Orange
 Blue
 Cyan
-gold
+Yellow
 Charcoal
 Khaki
 Coral
 Silver
 Fuchsia
-white
+Purple
 Brown
-one
+Red
